@@ -1,4 +1,0 @@
--rrequirements.txt
-
-pywin32==300
-wmi==1.5.1
